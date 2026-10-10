@@ -8,10 +8,7 @@ Cinemax
 CMT
 Comedy TV
 E! Entertainment Television
-Freeform
-FX
 FX Movie Channel
-FXX
 MTV
 MTV2
 Paramount Network
@@ -28,13 +25,11 @@ HBO Signature
 HBO Zone
 MoreMax
 Showtime
-Showtime 2
 Starz
 Starz Cinema
 Starz Comedy
 Boomerang
 Cartoon Network
-Discovery Family
 Disney Channel
 Disney Jr
 Disney XD
@@ -45,5 +40,3 @@ Nicktoons
 PBS Kids
 TeenNick
 Toonami Aftermath (East)
-Universal Kids
-
