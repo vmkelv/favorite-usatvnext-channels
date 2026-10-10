@@ -1,10 +1,11 @@
 {
   "id": "community.usa-tv-favorites.scampari",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "name": "USA TV Favorites",
-  "description": "A favorites row for USA TV Next. Needs the USA TV Next addon installed to play channels.",
+  "description": "A favorites row and extra streams for USA TV Next. Needs the USA TV Next addon installed.",
   "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logo.png",
-  "resources": ["catalog"],
+  "resources": ["catalog", "stream"],
   "types": ["tv"],
+  "idPrefixes": ["ustv"],
   "catalogs": [{ "type": "tv", "id": "favorites", "name": "USA TV Favorites" }]
 }
