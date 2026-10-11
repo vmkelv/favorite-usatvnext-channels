@@ -1,20 +1,21 @@
 # One channel name per line, exactly as it appears in USA TV Next.
 # The order here is the order Stremio shows. Run `python3 build.py` after editing.
 
+Nickelodeon
+TBS
+MTV
+CMT
+Comedy TV
+E! Entertainment Television
 AMC
 BBC America 
 BET
 Cinemax
-CMT
-Comedy TV
-E! Entertainment Television
 FX Movie Channel
-MTV
 MTV2
 MeTV
 Paramount Network
 SYFY
-TBS
 TNT
 TruTV
 5StarMax 
@@ -36,7 +37,6 @@ Disney Jr
 Disney XD
 MeTV Toons
 Nick Jr
-Nickelodeon
 Nicktoons
 PBS Kids
 TeenNick
